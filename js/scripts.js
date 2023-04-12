@@ -38,9 +38,7 @@ const getAddress = async(cep) => {
     const response = await fetch(apiUrl)
 
     const data = await response.json()
-
-    console.log(data.bairro);
-    //Show error and reset form
+        //Show error and reset form
     if (data.erro === true) {
         if (!addressInput.hasAttribute("disabled")) {
             toggleDisabled();
