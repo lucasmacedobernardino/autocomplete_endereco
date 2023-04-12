@@ -3,7 +3,7 @@
     <p>Autocomplete_endereço</p>
 </h1>
 
-#[Acesse Aqui](https://autocompleteendereco.vercel.app/)#
+#[Acesse Aqui](https://autocompleteendereco.vercel.app/){:target="_blank"}#
 
 ## 📕 Sobre
 
